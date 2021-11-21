@@ -41,4 +41,12 @@ ul {
   border: 5px solid #f2f2f2; /* light grey */
   margin: 25px;
   width: 75%;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+#landing {
+  margin-top: 75px;
 } 
